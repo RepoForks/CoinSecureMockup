@@ -2,4 +2,4 @@
 
 [APK is here](/outputs/CoinSecureMockup.apk)
 
-![Screenshot](/outputs/screenshots.png)
+![Screenshot](/outputs/screenshot.png)
